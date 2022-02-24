@@ -1,0 +1,72 @@
+/*Fuentes Requeridas*/
+body{
+    font-family: 'Cabin', sans-serif;
+}
+.fontLobster{
+    font-family: 'Lobster', cursive;
+}
+
+/*Navbar*/
+.navbar{
+    background-color: #373A3C;
+}
+
+/*Inicio*/
+#Inicio img{
+    width: 100%;
+}
+#inicio.btn{
+    border-color: #373A3C;
+}
+#Inicio h1,h4{
+    font-weight: bold;
+}
+
+/*Carousel*/
+.carousel-indicators{
+    left: 0;
+    top:auto ;
+    bottom: -50px;
+}
+.carousel-indicators li{
+    background: #373A3C;
+    border-radius:50%;
+    height:5px;
+}
+
+/*Recetas*/
+#Recetas{
+    color:#373A3C;
+}
+hr{
+    opacity: 100; 
+}
+#Recetas h3{
+    font-weight: bold;
+}
+
+/*Nosotros*/
+#Nosotros{
+    color:#373A3C;
+}
+#Nosotros h2,h5{
+    font-weight: bold;
+}
+
+/*Contacto*/
+#Contacto{
+    background-color: #DC3545; 
+}
+#Contacto.btn-outline-light{
+    background-color: transparent;
+    border-color: #ffffff;
+    box-shadow: none;
+}
+#Contacto h2{
+    font-weight: bold;
+}
+
+/*Footer*/
+#Footer{
+    background-color: #373A3C;
+}
